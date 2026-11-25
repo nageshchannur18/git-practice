@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Project Title: Online Food Application
+=======
 Project Title: Food Delivery App
+>>>>>>> origin/main
